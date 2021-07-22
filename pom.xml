@@ -10,6 +10,9 @@
     <packaging>war</packaging>
 
     <properties>
+        <sonar.projectKey>BenLooper_DockerJava</sonar.projectKey>
+        <sonar.organization>benlooper</sonar.organization>
+        <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
         <!-- Generic properties -->
         <java.version>1.7</java.version>
